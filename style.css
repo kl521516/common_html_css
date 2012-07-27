@@ -24,20 +24,24 @@ a:hover{text-decoration:underline;}
 .right{float:right;}
 .fdz{float:left;}
 .fdy{float:right;}
-/*go top*/
+/* go top
+   ================================================================================ */
 .gotop{position: fixed; bottom:10px;right:10px; width:50px; height:50px;display:none; _position:absolute; _top:expression(eval(document.documentElement.scrollTop + document.documentElement.clientHeight - 60));}
 .gotop a{display:block; height:50px; width:50px; overflow:hidden; background:url(images/common/backtop.png) no-repeat; text-indent:-9999em; outline:none;}
-/*qq dialog*/
+/* qq dialog
+   ================================================================================ */
 #qq_box {padding-left: 26px;background: url(images/common/qq_box.png)  left top no-repeat;_background: url(images/common/qq_box.png) left top no-repeat;width:98px; height: 138px;overflow: hidden;right: 0px;}
 #qq_box_main {width: 98px;height: 138px;display: block;background: url(images/common/qq_box_right.png) no-repeat right top;float: right;visibility: hidden;padding-top: 10px;}
 #qq_box_main ul {padding-bottom: 5px;}
 #qq_box_main ul li {display: block;padding:3px 0px 3px 8px;}
-/*countdown*/
+/* countdown
+   ================================================================================ */
 .countdown{width:222px;height:71px;line-height:71px;background:url(images/countdown_bg.jpg) no-repeat;padding:0px 0px 0px 0px;margin:0px 0px 8px 0px;text-align:center;color:#045994;font-size:16px;font-weight:bold;}
 .countdown .c_tit{color:#E16903;font-size:16px;}
 .countdown #day_num{color:#E16903;font-size:16px;padding:3px;}
 .countdown #hour_num,.countdown #minute_num,.countdown #second_num{color:red;font-size:14px;padding:3px;}
-/*form*/
+/* form
+   ================================================================================ */
 .post_error{color:red;}
 .tab_form{background:#D4D0C8;}
 .tab_form td{background:#FFFFFF;padding:5px;color:#3D3D3D;}
@@ -45,7 +49,8 @@ a:hover{text-decoration:underline;}
 .tab_form .input_txt{border-top:1px #999999 solid;border-left:1px #999999 solid;border-right:1px #CCCCCC solid;border-bottom:1px #CCCCCC solid;background:#FFF;}
 .tab_form .input_txt:hover{border:1px #0099CC solid;background:#F5F9FD;}
 .tab_list td{padding:7px;border-bottom:1px #ccc dotted;}
-/*disjoin page*/
+/* disjoin page
+   ================================================================================ */
 .pagination{text-align:left;padding:2px 0;}
 .pagination em{float:left;padding-right: 5px; display: inline-block;padding-bottom: 2px;margin-right: 5px;font-style:normal;line-height:26px;}
 .pagination a,.pagination strong{float:left;padding:0 6px;margin-right:2px;height:26px;border:1px solid;line-height:26px;overflow:hidden;text-decoration:none;}
@@ -57,11 +62,13 @@ a:hover{text-decoration:underline;}
 .pagination a.next{padding-right:16px;background-image:url(images/admincp/arrow_right.gif);background-position:90% 50%;}
 .pageback a{padding-left:16px;background:#FFF url(images/admincp/arrow_left.gif) no-repeat 0 50%;}
 .pagination a:hover,.pagination a.next{border-color:#069;}
-/*table default style*/
+/* table default style
+   ================================================================================ */
 table.tab{border-collapse:collapse;border-spacing:0;word-wrap:break-word;word-break:break-all;color:#666;font-size:12px;}
 table.tab td,table.tab th{padding:8px;border:1px solid #DDD;}
 table.tab th{text-align:center;border-top:2px solid #BBB;background-color:#F7F7F7;font-weight:bold;}
-/*tab card*/
+/* tab card
+   ================================================================================ */
 .tab_card_tit{
 	height:30px;
 	overflow:hidden;
