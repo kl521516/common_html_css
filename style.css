@@ -47,7 +47,7 @@ a:hover{text-decoration:underline;}
 .tab_form{background:#D4D0C8;}
 .tab_form td{background:#FFFFFF;padding:5px;color:#3D3D3D;}
 .tab_form td.b{background:#EEEEEE;font-weight:bold;}
-.tab_form .input_txt{border-top:1px #999999 solid;border-left:1px #999999 solid;border-right:1px #CCCCCC solid;border-bottom:1px #CCCCCC solid;background:#FFF;border-radius:3px;}
+.tab_form .input_txt{border-top:1px #999999 solid;border-left:1px #999999 solid;border-right:1px #CCCCCC solid;border-bottom:1px #CCCCCC solid;background:#FFF;}
 .tab_form .input_txt:hover{border:1px #0099CC solid;background:#F5F9FD;}
 .tab_list td{padding:7px;border-bottom:1px #ccc dotted;}
 /* disjoin page
