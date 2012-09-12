@@ -140,6 +140,12 @@ table.tab th{text-align:center;border-top:2px solid #BBB;background-color:#F7F7F
 ::-webkit-scrollbar-track:vertical,::-webkit-scrollbar-track:horizontal,::-webkit-scrollbar-thumb:vertical,::-webkit-scrollbar-thumb:horizontal {border-width:0;}
 ::-webkit-scrollbar-track:hover {-webkit-box-shadow:inset 1px 0 0 rgba(0,0,0,.1);background-color:rgba(0,0,0,.05);}
 ::-webkit-scrollbar-track:active {-webkit-box-shadow:inset 1px 0 0 rgba(0,0,0,.14),inset -1px -1px 0 rgba(0,0,0,.07);background-color:rgba(0,0,0,.05);}
+/* test
+   ================================================================================ */
+.test{
+	color:red;
+	font-weight:bold;
+}
 /**/
 .more{float:right;font-size:12px;font-weight:normal;color:#646363;margin-right:10px;}
 .root_div{
