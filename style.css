@@ -310,8 +310,6 @@ table.tab th{text-align:center;border-top:2px solid #BBB;background-color:#F7F7F
     -webkit-box-shadow:3px 3px 5px #E3E3E3;
 	-moz-box-shadow:3px 3px 5px #E3E3E3;
 	box-shadow:3px 3px 5px #E3E3E3;
-	width:150px;
-	height:60px;
 	border:1px #ccc solid;
 }
 /**/
