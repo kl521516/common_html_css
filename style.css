@@ -1,5 +1,5 @@
 body{
-	font:12px "å®‹ä½“",arial,helvetica,clean,sans-serif;
+	font:12px "ËÎÌå",arial,helvetica,clean,sans-serif;
 	text-align:center;
 	/*background:url(images/bg.jpg) top repeat-x;*/
 }		
@@ -127,7 +127,7 @@ table.tab th{text-align:center;border-top:2px solid #BBB;background-color:#F7F7F
    ========================================================================== */
 ::-moz-selection,::selection {background: #327012;color: white;}
 /* scrollbar
-   ========================================================================== */
+  ========================================================================== */
 ::-webkit-scrollbar {height:10px;width:10px}
 ::-webkit-scrollbar-button {height:0;width:0;}
 ::-webkit-scrollbar-button:start:decrement,::-webkit-scrollbar-button:end:increment {display:block;}
@@ -198,7 +198,7 @@ table.tab th{text-align:center;border-top:2px solid #BBB;background-color:#F7F7F
 	display:none; 
 	position: absolute;
 	width:100px; 
-	top:38px;
+top:38px;
 	left:0px;		
 	z-index:999;
 	color:#FFF; 
@@ -226,7 +226,6 @@ table.tab th{text-align:center;border-top:2px solid #BBB;background-color:#F7F7F
 	/*background:red;*/
 }
 .left_area .tit{
-	height:35px;
 	line-height:35px;
 	background:url(images/left_tit.jpg) no-repeat;
 	color:#db2c03;
@@ -312,8 +311,6 @@ table.tab th{text-align:center;border-top:2px solid #BBB;background-color:#F7F7F
     -webkit-box-shadow:2px 2px 3px #E3E3E3;
 	-moz-box-shadow:2px 2px 3px #E3E3E3;
 	box-shadow:2px 2px 3px #E3E3E3;
-	width:150px;
-	height:60px;
 }
 /**/
 .footer{
@@ -328,7 +325,6 @@ table.tab th{text-align:center;border-top:2px solid #BBB;background-color:#F7F7F
 	text-align:center;
 }
 .footer	a{color:#666766;}
-.footer	a:hover{color:#DD301F;font-weight:bold;}
 /*sub page*/
 .sub_left_area{
 	float:left;
@@ -385,3 +381,4 @@ table.tab th{text-align:center;border-top:2px solid #BBB;background-color:#F7F7F
 	line-height:22px;
 	color:#666;
 }
+
